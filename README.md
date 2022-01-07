@@ -1,8 +1,8 @@
 
-<h1 align="center">  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<h1 align="center">Hey, there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
-
-![](https://user-images.githubusercontent.com/55941955/148102281-58e561e0-423f-44c5-89fe-c1d01745d060.gif)
+## About me
+I am Mohammad Al Refaai Software Developer and always willing to learn and work across new technologies and domains.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Al-Refai&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=Mohammad-Al-Refai&layout=compact&theme=radical)
