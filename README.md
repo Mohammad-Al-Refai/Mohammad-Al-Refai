@@ -8,7 +8,7 @@ I am Mohammad Al Refaai and I am Software Developer and always willing to learn 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=Mohammad-Al-Refai&layout=compact&theme=radical)
 
 
-## Programing Languages 🧑‍🏫
+## Programming Languages 🧑‍🏫
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) 
 ![JavaScript](	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
