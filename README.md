@@ -4,9 +4,11 @@
 ## About me
 I am Mohammad Al Refaai and I am Software Developer and always willing to learn and work across new technologies and domains.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Al-Refai&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api?username=Mohammad-Al-Refai&layout=compact&theme=radical)
 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammad-Al-Refai)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Al-Refai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Programming Languages 🧑‍🏫
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
