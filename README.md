@@ -39,4 +39,4 @@ I am Mohammad Al Refaai and I am a Software Developer and always willing to lear
 ![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
 
-
+[![Views](https://visitcount.itsvg.in/api?id=mohammad&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
