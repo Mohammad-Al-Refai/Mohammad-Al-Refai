@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey, there</h1>
+<h1 align="center">Hey there!</h1>
 
 ## About me
 I am Mohammad Al Refaai and I am a Software Developer and always willing to learn and work across new technologies and domains.
